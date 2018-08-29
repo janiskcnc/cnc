@@ -1,0 +1,2 @@
+# cnc
+Informācija  par cnc
